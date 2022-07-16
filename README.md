@@ -13,6 +13,6 @@ npm->
 yarn->   yarn global list
 
 ## to add package globally
-npm->   npm install -g <package-names>
+npm->   npm install -g {package-names}
 
-yarn->   yarn global add <package-names>
+yarn->   yarn global add {package-names}
