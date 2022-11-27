@@ -8,7 +8,7 @@ npm->   npm root -g
 yarn->  yarn global dir
 
 ## to list all the global packages installed
-npm->   
+npm->   npm -g list
 
 yarn->   yarn global list
 
